@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 import Home from '../Home';
 import CoinDetail from '../Coindetail/CoinDetail';
